@@ -2,8 +2,6 @@
 **C++, C#, SQL, Python, Luau**<br>
 **CS50 & Google Cybersecurity Professional Certification**<br><br>
 
----
-
 ## Disclaimer  
 My open-source reverse engineering related works are provided exclusively for technical research and informational purposes. The materials I have provided are NOT meant to facilitate/endorse cheating, exploitation, or any actions that compromise the integrity of said game or software.
 
