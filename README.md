@@ -1,5 +1,5 @@
 # Perousia<br>
-**C++, C#, SQL, Python, Luau**<br>
+**C++, C#, SQL, Python, and Luau**<br>
 **CS50 & Google Cybersecurity Professional Certification**<br><br>
 
 ## Disclaimer  
