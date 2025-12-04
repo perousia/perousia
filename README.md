@@ -1,6 +1,6 @@
 # Perousia<br>
 **C++, C#, SQL, Python, and Luau**<br>
-**CS50 & Google Cybersecurity Professional Certification**<br><br>
+**CS50X, Google Cybersecurity Professional Certification, and AZ900**<br><br>
 
 ## Disclaimer  
 **My open-sourced RE related works are provided as is for technical research and informational purposes only.**<br>
